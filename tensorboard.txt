@@ -1,0 +1,1 @@
+python -m tensorboard.main --logdir C:/nn_tuning_logs/logs/fit
